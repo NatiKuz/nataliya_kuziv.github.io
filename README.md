@@ -1,1 +1,2 @@
-<a href="https://natikuz.github.io/"># Nataliya Kuziv - Personal portfolio</a>
+# Nataliya Kuziv 
+<a href="https://natikuz.github.io/" target="_blank">Personal portfolio</a>
